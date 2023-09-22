@@ -1,0 +1,7 @@
+uproot
+matplotlib
+hist[plot]
+awkward
+vector
+pandas
+ipykernel

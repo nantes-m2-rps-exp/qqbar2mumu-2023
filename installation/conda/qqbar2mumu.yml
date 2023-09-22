@@ -1,0 +1,11 @@
+name: qqbar2mumu
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - uproot
+  - matplotlib
+  - pip
+  - pip:
+     - hist
+     - vector
