@@ -10,9 +10,9 @@ Cliquez sur le bouton orange "Launch My Notebooks Server". Cela devrait vous emm
 
 Entrez votre identifiant et votre mot de passe (donnés par vos encadrants à la première séance)
 
-Sur l'écran suivant sélectionnez "CPU only" et cliquez sur le bouton  orange "Launch My Notebooks Server".
+Sur l'écran suivant cliquez sur le bouton  orange "Launch My Notebooks Server".
 
-![](./cc-notebook-server-options.png)
+![](./cc-no-gpu-availability.png)
 
 Vous obtenez alors l'écran principal de la plateforme Jupyter 
 
