@@ -3,7 +3,7 @@
 Utiliser la commande git suivante :
 
 ```shell
-git clone https://github.com/nantes-m2-rps-exp/qqbar2mumu-2022.git
+git clone https://github.com/nantes-m2-rps-exp/qqbar2mumu-2023.git
 ```
 
 Par défault, vous êtes sur la "master branch" du projet "origin". Pour pouvoir travailler sur le projet, vous devez effectuer un "Fork" de celui-ci en cliquant sur le bouton en haut à droite :
@@ -14,7 +14,7 @@ Une fois le "Fork" réalisé, vous êtes en possession d'une copie complète du 
 
 ![screenshot git fork2](./screenshot-git-fork-2.png)
 
-Par la suite, l'adresse de votre projet sur Github [https://github.com/"YOUR_GIT_USER_NAME"/qqbar2mumu-2022.git](https://github.com/"YOUR_GIT_USER_NAME"/qqbar2mumu-2022.git) sera référencée par *myrepo*.
+Par la suite, l'adresse de votre projet sur Github [https://github.com/"YOUR_GIT_USER_NAME"/qqbar2mumu-2023.git](https://github.com/"YOUR_GIT_USER_NAME"/qqbar2mumu-2023.git) sera référencée par *myrepo*.
 En local sur votre machine, il faut maintenant accéder à cette copie. Pour cela, vous devez utiliser les commandes suivantes :
 
 ```shell
