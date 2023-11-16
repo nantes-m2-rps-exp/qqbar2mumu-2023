@@ -1,8 +1,0 @@
-uproot==4.3.*
-jupyterlab==3.5.*
-matplotlib==3.6.*
-hist[plot]==2.6.*
-awkward==1.10.*
-vector==0.10.*
-pandas==1.5.*
-ipykernel==6.25.*
