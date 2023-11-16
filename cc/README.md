@@ -14,14 +14,20 @@ Sur l'écran suivant sélectionnez "CPU only" et cliquez sur le bouton  orange "
 
 ![](./cc-notebook-server-options.png)
 
+Vous obtenez alors l'écran principal de la plateforme Jupyter 
+
+![](./cc-jupyter-ui.png)
+
 # A faire après la première connexion
 
-Aller dans `File -> New -> Terminal` (ou cliquez sur l'icone "Terminal" dans l'onglet "Launcher" qui devrait être ouvert) et tapez les commandes suivantes pour récupérer le dépot git qui contient le point de départ de ce projet : 
+Aller dans le menu `Git -> Clone a Repository` et entrez l'adresse du dépot git qui contient le point de départ de ce projet : 
 
 ```shell
-git clone https://github.com/nantes-m2-rps-exp/qqbar2mumu-2023.git
+https://github.com/nantes-m2-rps-exp/qqbar2mumu-2023.git
 ```
 
-Notez qu'un répertoire `qqbar2mumu-2023` devrait apparaître dans la partie gauche de l'écran qui est la partie "explorateur de fichiers". A l'aide de cet explorateur de fichiers naviguez jusqu'au répertoire `qqbar2mumu-2023/notebooks` et double-cliquez sur `muon-eta-distribution.ipynl`. Ceci ouvre votre premier notebook qui vous sera présenté lors de la première séance.
+![](./cc-jupyter-clone-a-repo.png)
 
+Notez qu'un répertoire `qqbar2mumu-2023` devrait apparaître dans la partie gauche de l'écran (qui est la partie "explorateur de fichiers"). A l'aide de l'explorateur de fichiers naviguez jusqu'au répertoire `qqbar2mumu-2023/notebooks` et double-cliquez sur `muon-eta-distribution.ipynl`. Ceci ouvre votre premier notebook qui vous sera présenté lors de la première séance.
 
+![](./cc-jupyter-first-notebook.png)
