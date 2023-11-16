@@ -12,4 +12,4 @@ Comme pour Jupyter, un nombre important de ressources documentaires et tutoriels
 
 Vous trouverez dans le [document `git/README.md`](git/README.md) les commandes de base pour démarrer avec ce dépôt git en particulier.
 
-Une fois la première installation réalisée, commencez par vous familiariser avec Jupyter en utilisant le [notebook d'exemple](notebooks/muon-eta-distribution.ipynb)
+Une fois la première installation réalisée, commencez par vous familiariser avec Jupyter en utilisant le [notebook d'exemple](notebooks/01-muon-eta-distribution.ipynb)

@@ -28,6 +28,6 @@ https://github.com/nantes-m2-rps-exp/qqbar2mumu-2023.git
 
 ![](./cc-jupyter-clone-a-repo.png)
 
-Notez qu'un répertoire `qqbar2mumu-2023` devrait apparaître dans la partie gauche de l'écran (qui est la partie "explorateur de fichiers"). A l'aide de l'explorateur de fichiers naviguez jusqu'au répertoire `qqbar2mumu-2023/notebooks` et double-cliquez sur `muon-eta-distribution.ipynl`. Ceci ouvre votre premier notebook qui vous sera présenté lors de la première séance.
+Notez qu'un répertoire `qqbar2mumu-2023` devrait apparaître dans la partie gauche de l'écran (qui est la partie "explorateur de fichiers"). A l'aide de l'explorateur de fichiers naviguez jusqu'au répertoire `qqbar2mumu-2023/notebooks` et double-cliquez sur `01-muon-eta-distribution.ipynl`. Ceci ouvre votre premier notebook qui vous sera présenté lors de la première séance.
 
 ![](./cc-jupyter-first-notebook.png)
