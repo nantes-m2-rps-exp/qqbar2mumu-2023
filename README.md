@@ -6,7 +6,7 @@ Pour ce projet le language de programmation choisi est Python. Nous recommandons
 
 Jupyter est un outil commun dans le domaine de la science des données. Il y a bien des façons d'utiliser Jupyter et de nombreux tutoriels sont disponibles en ligne pour aller plus loin, mais la méthode choisie pour ce projet est d'utiliser une plateforme en ligne fournie par le Centre de Calcul de l'IN2P3. Cette méthode vous évite d'avoir à installer des choses sur votre ordinateur. Vous trouverez dans le [document `cc/README.md`](cc/README.md) comment vous connecter à cette plateforme. Votre identifiant et votre mot de passe vous seront donnés par vos encadrants lors de la première scéance de travail.
 
-Pour ce projet, vous utiliserez également [Git](https://git.com) et [GitHub](https://github.com). Si ce n'est pas déjà le cas, il vous faudra [installer git sur votre machine](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) et vous [créér un compte GitHub](https://fr.wikihow.com/créer-un-compte-sur-GitHub).
+Pour ce projet, vous utiliserez également [Git](https://git.com) et [GitHub](https://github.com). Si ce n'est pas déjà fait, il vous faudra vous [créér un compte GitHub](https://fr.wikihow.com/créer-un-compte-sur-GitHub).
 
 Comme pour Jupyter, un nombre important de ressources documentaires et tutoriels sont disponibles sur le net pour commencer avec git si c'est votre première approche ou encore pour approfondir votre maîtrise de cet outil si vous le connaissez déjà un peu.
 
